@@ -1,0 +1,32 @@
+<students>
+    <student sl.no.='23'>
+        <sl.no.> 23 </sl.no.>
+        <name> John Carter </name>
+        <admissiondate> 
+            <day> 25</day>
+            <month> 12 </month>
+            <year> 2015 </year>
+        </admissiondate>
+    </student>
+
+    <student sl.no.='29'>
+        <sl.no.> 29 </sl.no.>
+        <name> Bob Marshal </name>
+        <admissiondate> 
+            <day> 13 </day>
+            <month> 01 </month>
+            <year> 1999 </year>
+        </admissiondate>
+    </student>
+
+    <student sl.no.='35'>
+        <sl.no.> 35 </sl.no.>
+        <name> Clark Kent </name>
+        <admissiondate> 
+            <day> 17 </day>
+            <month> 06 </month>
+            <year> 2005 </year>
+        </admissiondate>
+    </student>
+
+</students>
